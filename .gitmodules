@@ -1,0 +1,9 @@
+[submodule "nomina-frontend"]
+	path = nomina-frontend
+	url = https://github.com/juanserna1711/nomina-frontend.git
+[submodule "nomina-backend"]
+	path = nomina-backend
+	url = https://github.com/juanserna1711/nomina-backend.git
+[submodule "nomina-database"]
+	path = nomina-database
+	url = https://github.com/juanserna1711/nomina-database.git
